@@ -1,0 +1,2 @@
+This is my first step in trying CLI through VSCode and Git,
+Git is not as complicated so far. Will see in future. 
